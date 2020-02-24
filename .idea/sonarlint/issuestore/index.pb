@@ -12,7 +12,7 @@ Nmicroservicecloud-api/src/main/java/com/atguigu/springcloud/entities/Dept.java
 ì
 cmicroservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/service/DeptService.java,c\f\cf57b85b12a95d0adfd39674dcff92861d7dcf00
 î
-dmicroservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java,b\9\b94acd01440c8822cb3f4c831c05bad7a79f8a8e
+dmicroservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/DeptProvider8001_App.java,b/9/b94acd01440c8822cb3f4c831c05bad7a79f8a8e
 ô
 imicroservicecloud-provider-dept-8001/src/main/java/com/atguigu/springcloud/controller/DeptController.java,9\3\93f92e4ee57d4fe665c4d0d4fd4c70d155c7b46d
 ô
@@ -20,8 +20,10 @@ imicroservicecloud-provider-dept-8001/src/main/resources/com/atguigu/springcloud
 ê
 `microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/cfgbean/ConfigBean.java,4\0\405d239cdf97f33b586bf4d8972d8686a4fd0e2d
 ê
-`microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java,8\7\875bac7cdd654df6ed2865f4212bd08a274613b4
+`microservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/DeptConsumer80_App.java,8/7/875bac7cdd654df6ed2865f4212bd08a274613b4
 †
 pmicroservicecloud-consumer-dept-80/src/main/java/com/atguigu/springcloud/controller/DeptController_Consumer.java,d\0\d0b5aa905d8bc4da48360511f03dbb8b37bbf757
 Z
 *microservicecloud-consumer-dept-80/pom.xml,0\f\0f7c9bdc60d15d1c4f75c57816d7ffac5a00fccf
+ç
+]microservicecloud-eureka-7001/src/main/java/com/atguigu/springcloud/EurekaServer7001_App.java,5/7/57e334ac4f0510c3a2ae1a5cb2d823e1c4cdb45b
