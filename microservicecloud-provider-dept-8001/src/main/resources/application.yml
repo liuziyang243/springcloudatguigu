@@ -34,6 +34,7 @@ spring:
 logging:
   level:
     com.atguigu.springcloud.dao: debug
+    org.mybatis: debug
 
 eureka:
   client: #客户端注册进eureka服务列表内
