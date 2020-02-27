@@ -3,9 +3,9 @@ server:
 
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml
-  type-aliases-package: org.atguigu.springcloud.entities
+  type-aliases-package: org.atguigu.com.atguigu.springcloud.entities
   mapper-locations:
-    - classpath:com/atguigu/springcloud/dao/mapper/*.xml
+    - classpath:com/atguigu/com.atguigu.springcloud/dao/mapper/*.xml
 
 spring:
   application:
