@@ -3,7 +3,7 @@ server:
 
 mybatis:
   config-location: classpath:mybatis/mybatis.cfg.xml
-  type-aliases-package: org.atguigu.springcloud.entities
+  type-aliases-package: com.atguigu.springcloud.entities
   mapper-locations:
     - classpath:com/atguigu/springcloud/dao/mapper/*.xml
 
@@ -34,6 +34,7 @@ spring:
 logging:
   level:
     com.atguigu.springcloud.dao: debug
+    org.mybatis: debug
 
 eureka:
   client: #客户端注册进eureka服务列表内

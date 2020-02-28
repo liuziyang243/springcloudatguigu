@@ -63,7 +63,8 @@
                 </includes>
             </resource>
             <resource>
-                <directory>src/main/java/com/atguigu/springcloud/com.atguigu.springcloud.com.atguigu.springcloud.dao
+                <directory>
+                    src/main/java/com/atguigu/com.atguigu.springcloud/com.atguigu.com.atguigu.springcloud.com.atguigu.com.atguigu.springcloud.dao
                 </directory>
                 <includes>
                     <include>**/*.xml</include>
