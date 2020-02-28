@@ -1,0 +1,7 @@
+
+Msquid:S1172"*Remove this unused method parameter "key".(ÍÅğŞùÿÿÿÿ8³±Ñ¢ˆ.
+isquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(Å —™8¨Úá¢ˆ.
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤…Áçşÿÿÿÿ
+¤squid:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ØğâÛüÿÿÿÿ8ªßã¢ˆ.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÍÅğŞùÿÿÿÿ8¿Ûæ¢ˆ.
+Zsquid:S2589"7Remove this expression which always evaluates to "true"(è›˜¨ûÿÿÿÿ8¨˜¾¢ˆ.

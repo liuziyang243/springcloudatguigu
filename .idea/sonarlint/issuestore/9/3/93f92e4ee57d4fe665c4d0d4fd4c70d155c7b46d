@@ -1,9 +1,9 @@
 
-_squid:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°
-fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ
-_squid:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß
 ksquid:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ8…•²ˆ.
-[
-squid:S1060"9Replace this use of System.out or System.err by a logger.(îÎ¤äøÿÿÿÿ8…•²ˆ.
+_squid:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß
 [
 squid:S1063"9Replace this use of System.out or System.err by a logger.(ø†Õûÿÿÿÿ8…•²ˆ.
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ
+_squid:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(îÎ¤äøÿÿÿÿ8…•²ˆ.
