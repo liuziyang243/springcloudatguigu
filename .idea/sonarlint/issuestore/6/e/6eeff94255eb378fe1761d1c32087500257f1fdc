@@ -1,9 +1,11 @@
 
-T
-squid:S1063"9Replace this use of System.out or System.err by a logger.(ø†Õûÿÿÿÿ
-T
-squid:S1060"9Replace this use of System.out or System.err by a logger.(îÎ¤äøÿÿÿÿ
-msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ8¯áœÎˆ.
-fsquid:S4488#"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8¯áœÎˆ.
-fsquid:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°8¯áœÎˆ.
-ksquid:S4488-"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ8¯áœÎˆ.
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿŞÚëÿÿÿÿÿ8¯áœÎˆ.
+jsquid:S00112)"FDefine and throw a dedicated exception instead of using a generic one.(£¯£±ıÿÿÿÿ8“›âÎˆ.
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(îÎ¤äøÿÿÿÿ8“›âÎˆ.
+fsquid:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ì¢àß8¯áœÎˆ.
+msquid:S00100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ŞŒ8“›âÎˆ.
+fsquid:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¯©°8“›âÎˆ.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(ø†Õûÿÿÿÿ8“›âÎˆ.
+ksquid:S4488;"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‹…ûÿÿÿÿ8“›âÎˆ.
